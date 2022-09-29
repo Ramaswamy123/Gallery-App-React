@@ -1,0 +1,30 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-container {
+  padding: 20px;
+  box-shadow: 10px 10px 10px 10px #dadee2;
+}
+.image {
+  height: 300px;
+  width: 100%;
+}
+.heading {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #64748b;
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.thumbnail-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-start;
+}
